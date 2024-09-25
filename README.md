@@ -3,7 +3,7 @@ Hi!
 I’m currently working on various projects, challenges and concepts that I want to explore or dig into!
 Things that I am currently showing publicly are: libraries, visualisation tool(s), command line tool(s) and containerised service(s). Along with lots more privately!
 
-I enjoy learning new skills and diversifying my knowledge and experience new problems that I can then apply to solve future challenges!
+I enjoy learning new skills and diversifying my knowledge by working through new problems that I can then apply to solve future challenges!
 
 Thanks for checking out my profile!
 
