@@ -1,10 +1,11 @@
-## Hi, I'm Kyle 👋
+Hi!
 
-- 🔭 I’m currently working on various projects and concepts that I want to explore or dig into! Things that I am currently showing publicly are: libraries, visualisation tool(s), command line tool(s) and containerised service(s)!
+I’m currently working on various projects, challenges and concepts that I want to explore or dig into!
+Things that I am currently showing publicly are: libraries, visualisation tool(s), command line tool(s) and containerised service(s). Along with lots more privately!
 
-- 💬 Ask me about testing (unit testing, integration and end to end testing), Kotlin, C++ and Go!
+I enjoy learning new skills and diversifying my knowledge and experience new problems that I can then apply to solve future challenges!
 
-- 🌱 I’m currently learning new skills in areas that help to diversify my knowledge base so I can further take on and solve new challenges!
+Thanks for checking out my profile!
 
 <!--
 **Kilemonn/Kilemonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
